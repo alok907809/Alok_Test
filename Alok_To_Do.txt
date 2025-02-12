@@ -2,3 +2,8 @@
 
 1. Data manipulation to be on mail from Reporting team and to be discussed with Ullico.
 2. Process to be changed to align with latest changes in Reporting.
+
+12/02:
+Process tweaking for Policy, Claims and Billing --> In Progress
+Anitha is checking internally with her team first whether the data patch would be on permanent basis and if it is then she will be dropping a mail for the same. Ullico is aware about the change but there is no written communication from them yet.
+If the data patch is confirmed, we will request Ullico to accommodate the change and if they disagree then we will make that change in our ETL routine.
